@@ -1,6 +1,6 @@
 # Previsão do Preço de Casas com Random Forest
 
-Este projeto utiliza técnicas de Machine Learning para prever o preço de casas com base em dados reais. Utilizamos o algoritmo Random Forest para treinamento do modelo e construímos uma interface interativa com Streamlit para facilitar a previsão.
+Este projeto utiliza técnicas de Machine Learning para prever o preço de casas com base em dados reais. Utilizei o algoritmo Random Forest para treinamento do modelo e construímos uma interface interativa com Streamlit para facilitar a previsão.
 
 ## Dataset
 
